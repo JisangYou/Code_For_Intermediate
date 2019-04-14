@@ -43,9 +43,26 @@ int BSearchRecur(int ar[], int first, int last, int target)
 }
 
 
+void HanoiTowerMove(int num, char from, char by, char to)
+{
+	if (num==1)
+	{
+		printf("원반1을 %c에서 %c로 이동 \n", from, to);
+	}
+	else
+	{
+		HanoiTowerMove(num - 1, from, to, by);
+		printf("원반%d을 %c에서 %c로 이동 \n", num, from, to);
+		HanoiTowerMove(num - 1, by, from, to);
+	}
+}
+
+
 int main(void)
 
-{	//Recursive(3);
+{	// 1. Recursive(3);
+
+	// 2. Factorial
 
 	//printf("1! = %d \n", Factorial(1));
 	//printf("2! = %d \n", Factorial(2));
@@ -53,11 +70,15 @@ int main(void)
 	//printf("4! = %d \n", Factorial(4));
 	//printf("9! = %d \n", Factorial(9));
 	
+	// 3. Fibo
 	/*int i;
 	for (i = 1; i < 15; i++)
 		printf("%d ", Fibo(i));*/
 
-	int arr[] = { 1,3,5,7,9 };
+
+	// 4. BSearchRecur
+
+	/*int arr[] = { 1,3,5,7,9 };
 	int idx;
 
 	idx = BSearchRecur(arr, 0, sizeof(arr) / sizeof(int) - 1, 7);
@@ -70,7 +91,13 @@ int main(void)
 	if (idx == -1)
 		printf("탐색 실패 \n");
 	else
-		printf("타겟 저장 인덱스: %d \n", idx);
+		printf("타겟 저장 인덱스: %d \n", idx);*/
+
+
+	// 5. HanoiTowerMove
+
+	HanoiTowerMove(3, 'A', 'B', 'C');
+	system("pause");
 
 	return 0;
 }

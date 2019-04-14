@@ -1,4 +1,4 @@
-## 2. Linear Search
+## 5. Recursion
 
 ### Definition
 
