@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="25e65fb4-5e9c-47be-a4c8-400a2fbe1926" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntQueue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,23 +64,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GenericClassTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="342">
+              <caret line="18" column="39" selection-end-line="21" />
               <folding>
                 <element signature="e#112#113#0" expanded="true" />
                 <element signature="e#148#149#0" expanded="true" />
                 <element signature="e#170#171#0" expanded="true" />
                 <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#307#315#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/IntStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="266">
+              <caret line="23" column="16" selection-end-line="99" />
               <folding>
                 <element signature="e#1500#1501#0" expanded="true" />
                 <element signature="e#1523#1524#0" expanded="true" />
@@ -97,11 +98,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IntQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="758">
-              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            <state relative-caret-position="397">
+              <caret line="87" column="30" selection-end-line="108" />
+              <folding>
+                <element signature="e#1716#1717#0" expanded="true" />
+                <element signature="e#1787#1788#0" expanded="true" />
+                <element signature="e#1864#1865#0" expanded="true" />
+                <element signature="e#1944#1945#0" expanded="true" />
+                <element signature="e#1992#1993#0" expanded="true" />
+                <element signature="e#2025#2026#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IntStackTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            <state relative-caret-position="340">
+              <caret line="26" column="25" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -169,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -308,12 +317,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568645176363</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="enque, deque">
+      <created>1568731399297</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568731399297</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -342,7 +357,8 @@
     <MESSAGE value="generic" />
     <MESSAGE value="stack" />
     <MESSAGE value="queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="queue" />
+    <MESSAGE value="enque, deque" />
+    <option name="LAST_COMMIT_MESSAGE" value="enque, deque" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SeqSearch.java">
@@ -401,26 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenericClassTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntStackTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43852">
@@ -439,10 +435,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="87" column="30" selection-end-line="108" />
+          <folding>
+            <element signature="e#1716#1717#0" expanded="true" />
+            <element signature="e#1787#1788#0" expanded="true" />
+            <element signature="e#1864#1865#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#1992#1993#0" expanded="true" />
+            <element signature="e#2025#2026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntStackTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="25" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericClassTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="39" selection-end-line="21" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#307#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/IntStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="266">
+          <caret line="23" column="16" selection-end-line="99" />
           <folding>
             <element signature="e#1500#1501#0" expanded="true" />
             <element signature="e#1523#1524#0" expanded="true" />
@@ -455,13 +487,6 @@
             <element signature="e#1804#1805#0" expanded="true" />
             <element signature="e#1837#1838#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="758">
-          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
         </state>
       </provider>
     </entry>
