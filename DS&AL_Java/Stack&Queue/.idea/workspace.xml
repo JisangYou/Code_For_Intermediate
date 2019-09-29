@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60d4e33e-d4dd-4a07-9884-b54c3559f1cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Searching_Algo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching_Algo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Searching_Algo/src/IntQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Searching_Algo/src/IntStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Searching_Algo/src/IntStackTester.java" beforeDir="false" />
+    <list default="true" id="60d4e33e-d4dd-4a07-9884-b54c3559f1cc" name="Default Changelist" comment="링버퍼">
+      <change afterPath="$PROJECT_DIR$/../../Refactoring/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Refactoring/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenericClassTester.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LastNElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -114,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -146,7 +143,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Algorithm/programmers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -185,12 +182,21 @@
       <option name="presentableId" value="Default" />
       <updated>1568814320105</updated>
     </task>
+    <task id="LOCAL-00001" summary="링버퍼">
+      <created>1569682894321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569682894321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.52407" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26385927" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -211,6 +217,10 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="링버퍼" />
+    <option name="LAST_COMMIT_MESSAGE" value="링버퍼" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GenericClassTester.java" />
@@ -271,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LastNElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
