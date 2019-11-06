@@ -1,7 +1,5 @@
 package HeadFirst.Chapter2;
 
-import java.util.Observer;
-
 public interface Subject {
     public void registerObserver(Observer o);
 
