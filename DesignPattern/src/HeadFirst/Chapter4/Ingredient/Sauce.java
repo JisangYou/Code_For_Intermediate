@@ -1,4 +1,0 @@
-package HeadFirst.Chapter4.Ingredient;
-
-public class Sauce {
-}
