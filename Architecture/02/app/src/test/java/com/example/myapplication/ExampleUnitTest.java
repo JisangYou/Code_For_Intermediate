@@ -1,5 +1,7 @@
 package com.example.myapplication;
 
+import com.example.myapplication._01.MyComponent;
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;
