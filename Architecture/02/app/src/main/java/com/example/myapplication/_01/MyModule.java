@@ -12,10 +12,10 @@ public class MyModule {
         return "Hello World";
     }
 
-    @Provides
-    String provideName() {
-        return "Charles";
-    }
+//    @Provides
+//    String provideName() {
+//        return "Charles";
+//    }
 
 //    @Provides
 //    static String provideName() {
