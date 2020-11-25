@@ -2,221 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="295ed980-edad-4a9e-b8b6-83734de89b26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/io/InputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/io/LowerCaseInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/pizza/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/pizza/Olives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/pizza/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/pizza/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/pizza/ThickcrustPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/pizza/ThincrustPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/pizza/ToppingDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/Decaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/StarbuzzCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzz/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/Decaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/StarbuzzCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/starbuzzWithSizes/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/Ingredient/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/Ingredient/Clams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/Ingredient/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/Ingredient/Pepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/Ingredient/Sauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/Ingredient/Veggies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/challenge/Calendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/challenge/CalendarTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/challenge/PacificCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/challenge/Zone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/challenge/ZoneCentral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/challenge/ZoneEastern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/challenge/ZoneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/challenge/ZoneMountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/challenge/ZonePacific.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/BlackOlives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/ChicagoPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/ChicagoPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/ClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Clams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Eggplant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/FreshClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/FrozenClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Garlic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/MarinaraSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/MozzarellaCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/NYPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/NYPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Onion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/ParmesanCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Pepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PizzaTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PlumTomatoSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/RedPepper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/ReggianoCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Sauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/SlicedPepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Spinach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/ThickCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/ThinCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/VeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/Veggies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/ChicagoPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/ChicagoStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/ChicagoStyleClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/ChicagoStylePepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/ChicagoStyleVeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/DependentPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/NYPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/NYStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/NYStyleClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/NYStylePepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/NYStyleVeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzafm/PizzaTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzas/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzas/ClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzas/PepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzas/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzas/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzas/PizzaTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzas/SimplePizzaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzas/VeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/simple/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/simple/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/simple/SimpleObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/simple/SimpleSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/simple/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/simpleobservable/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/simpleobservable/SimpleObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/simpleobservable/SimpleSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/swing/SwingObserverExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/ForecastDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/HeatIndexDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/StatisticsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weather/WeatherStationHeatIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weatherobservable/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weatherobservable/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weatherobservable/ForecastDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weatherobservable/HeatIndexDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weatherobservable/StatisticsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weatherobservable/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weatherobservable/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Solution/weatherobservable/WeatherStationHeatIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/FakeQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/MiniDuckSimulator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/RedHeadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/Squeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/challenge/BasicCameraApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/challenge/CameraPlusApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/challenge/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/challenge/PhoneCameraApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/challenge/PhotoWithPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/challenge/ShareStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/challenge/Social.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadFirst/Strategy/Solution/challenge/Txt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/.idea/HeadFirst.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/.idea/Chapter1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/FlyBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/FlyNoWay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/FlyRocketPowered.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/FlyWithWings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/MallardDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/MiniDuckSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/ModelDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/MuteQuack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/Quack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/QuackBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter1/Squeak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter2/CurrentConditionDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Practice/CurrentConditionDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter2/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Practice/DisplayElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter2/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Practice/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter2/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Practice/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter2/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Practice/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter2/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Observer/Practice/WeatherStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/CondimentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/CondimentDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/DarkRoast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/HouseBlend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/JavaIO/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/JavaIO/InputTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/JavaIO/LowerCaseInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/JavaIO/LowerCaseInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/JavaIO/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/JavaIO/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/Mocha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/Soy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/Soy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/StarbuzzCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/StarbuzzCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter3/Whip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Decorator/Practice/Whip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/ChicagoPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/ChicagoStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/ChicagoStyleCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/ClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/Ingredient/Cheese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/Ingredient/Clams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/Ingredient/Dough.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/Ingredient/Pepperoni.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/Ingredient/Sauce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/Ingredient/Veggies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/NYPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/NYStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/NYStyleCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/PepperoniPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/PizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/PizzaTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/SimplePizzaFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeadFirst/Chapter4/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeadFirst/Factory/Practice/VeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_01/MyComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_01/MyModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/DuplicationModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/ModuleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/ModuleB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/MyComponent2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/PersonA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/PersonB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/PersonComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/PersonModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Architecture/02/settings.gradle" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -250,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PizzaTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -344,12 +182,17 @@
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -397,7 +240,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Refactoring" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -487,7 +334,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6342cffd-53e4-4f85-b9d5-b1f1a14ba2c4" name="Default Changelist" comment="" />
+      <changelist id="295ed980-edad-4a9e-b8b6-83734de89b26" name="Default Changelist" comment="" />
       <created>1579424728725</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -497,9 +344,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -809,31 +655,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PizzaIngredientFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/ThinCrustDough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/NYPizzaIngredientFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -848,17 +673,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/NYPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PizzaTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -870,6 +688,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadFirst/Decorator/Solution/pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/NYPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/NYPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/ThinCrustDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeadFirst/Factory/Solution/pizzaaf/PizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
