@@ -2,109 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb3ac3bf-d319-46be-a206-4c0970f36c9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Extract_Method/extractMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_01/MyComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_01/MyModule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/DuplicationModule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/ModuleA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/ModuleB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/MyComponent2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/PersonA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/PersonB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/PersonComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/java/com/example/myapplication/_02/PersonModule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Architecture/02/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/A_Very_Big_Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Apple_and_Orange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Birthday_Cake_Candles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Breaking_the_Records.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Compare_the_Triplets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Diagonal_Difference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Grading_Students.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Hello_World.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Kangaroo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Mini_Max_Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Plus_Minus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Simple_Array_sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Solve_Me_First.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Staircase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Algorithm_Training/Time_Conversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/DataStructure_Training/Arrays_DS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/DataStructure_Training/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/DataStructure_Training/Print_the_Elements_of_a_LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/DataStructure_Training/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/DataStructure_Training/Test_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/DataStructure_Training/Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/DataStructure_Training/Tree_Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day10_Binary_Numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day11_2D_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day1_Data_Types.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day2_Operators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day3_IntoToConditionalStatements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day4_Class_vs_Instance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day5_Loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day6_Lets_Review.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day7_Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day8_Dictionaries_and_Maps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/Day9_Recursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/Example_Studying/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/helloworld/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/helloworld/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/helloworld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/helloworld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/helloworld/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/helloworld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/helloworld/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/helloworld/helloworld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clean_Code/Java_datastructure/helloworld/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Effective_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Effective_Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Movie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rental.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extract_class/before/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pullup_method/after/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pullup_method/after/PreferredCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pullup_method/after/RegularCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pullup_method/before/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pullup_method/before/PreferredCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pullup_method/before/RegularCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/substitute_algorithm/SA_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/after/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/after/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/after/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/after/statements/HtmlStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/after/statements/Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/after/statements/TextStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/before/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/before/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template_method/before/Rental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Extract_Method/extractMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_method/EM_example.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,11 +32,120 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Extract_Method/extractMethod.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pullup_method/before/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="133">
+              <caret line="7" column="112" selection-start-line="7" selection-start-column="112" selection-end-line="7" selection-end-column="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pullup_method/after/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/substitute_algorithm/SA_example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/extract_class/before/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/extract_method/EM_example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pullup_method/after/PreferredCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pullup_method/after/RegularCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="31" />
+              <folding>
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pullup_method/before/PreferredCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pullup_method/before/RegularCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -141,6 +167,41 @@
       <list>
         <option value="$PROJECT_DIR$/src/Extract_Method/before.java" />
         <option value="$PROJECT_DIR$/src/Extract_Method/extractMethod.java" />
+        <option value="$PROJECT_DIR$/src/Extract_Method/ExtractMethod.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/PullUpMethod.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/PreferredCustomer.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/RegularCustomer.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/Customer.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/before/Customer.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/after/PreferredCustomer.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/after/RegularCustomer.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/before/PreferredCustomer.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/before/RegularCustomer.java" />
+        <option value="$PROJECT_DIR$/src/Pull_Up_Method/after/Customer.java" />
+        <option value="$PROJECT_DIR$/src/template_method/Movie.java" />
+        <option value="$PROJECT_DIR$/src/template_method/before/Movie.java" />
+        <option value="$PROJECT_DIR$/src/template_method/before/Rental.java" />
+        <option value="$PROJECT_DIR$/src/template_method/after/Movie.java" />
+        <option value="$PROJECT_DIR$/src/template_method/after/Rental.java" />
+        <option value="$PROJECT_DIR$/src/template_method/after/statements/TextStatement.java" />
+        <option value="$PROJECT_DIR$/src/template_method/before/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/template_method/after/statements/HtmlStatement.java" />
+        <option value="$PROJECT_DIR$/src/template_method/after/statements/Statement.java" />
+        <option value="$PROJECT_DIR$/src/template_method/after/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/pullup_method/before/Customer.java" />
+        <option value="$PROJECT_DIR$/src/pullup_method/after/PreferredCustomer.java" />
+        <option value="$PROJECT_DIR$/src/pullup_method/after/RegularCustomer.java" />
+        <option value="$PROJECT_DIR$/src/pullup_method/before/RegularCustomer.java" />
+        <option value="$PROJECT_DIR$/src/pullup_method/before/PreferredCustomer.java" />
+        <option value="$PROJECT_DIR$/src/pullup_method/after/Customer.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/extract_method/EM_example.java" />
+        <option value="$PROJECT_DIR$/src/substitute_algorithm/SA_example.java" />
+        <option value="$PROJECT_DIR$/src/extract_example/EC_class.java" />
+        <option value="$PROJECT_DIR$/src/extract_class/EC_class.java" />
+        <option value="$PROJECT_DIR$/src/extract_class/EC_example.java" />
+        <option value="$PROJECT_DIR$/src/extract_class/Person.java" />
+        <option value="$PROJECT_DIR$/src/extract_class/before/Person.java" />
       </list>
     </option>
   </component>
@@ -173,7 +234,20 @@
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Extract_Method" type="462c0819:PsiDirectoryNode" />
+              <item name="extract_class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="extract_class" type="462c0819:PsiDirectoryNode" />
+              <item name="before" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="extract_method" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,6 +255,12 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\workspace\Books\Refactoring\src\template_method\after" />
+      <recent name="C:\Users\USER\workspace\Books\Refactoring\src\Pull_Up_Method\after" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,6 +273,20 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Refactoring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -209,7 +303,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
@@ -218,9 +311,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -247,10 +341,223 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Extract_Method/extractMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/Pull_Up_Method/PullUpMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_method/after/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_method/after/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_method/before/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_method/before/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_method/after/statements/TextStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_method/after/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_method/after/statements/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_method/after/statements/HtmlStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template_method/before/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pullup_method/after/PreferredCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pullup_method/after/RegularCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pullup_method/before/RegularCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pullup_method/before/PreferredCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pullup_method/after/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/substitute_algorithm/SA_example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extract_method/EM_example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pullup_method/before/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="112" selection-start-line="7" selection-start-column="112" selection-end-line="7" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extract_class/before/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
