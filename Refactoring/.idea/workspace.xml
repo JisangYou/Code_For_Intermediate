@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb3ac3bf-d319-46be-a206-4c0970f36c9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hide_delegate/after/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hide_delegate/after/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hide_delegate/after/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hide_delegate/before/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hide_delegate/before/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hide_delegate/before/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inline_method/IM_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,55 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-              <folding>
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/NullCustomer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hide_delegate/before/Client.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,21 +58,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hide_delegate/after/Department.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hide_delegate/after/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -131,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hide_delegate/after/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
@@ -147,13 +82,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/Site.java">
+        <entry file="file://$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+            <state relative-caret-position="171">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding>
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/inline_method/IM_example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,11 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/inline_class/Person.java" />
-        <option value="$PROJECT_DIR$/src/inline_class/TelephoneNumber.java" />
-        <option value="$PROJECT_DIR$/src/inline_class/before/TelephoneNumber.java" />
-        <option value="$PROJECT_DIR$/src/inline_class/before/Person.java" />
-        <option value="$PROJECT_DIR$/src/inline_class/after/Person.java" />
         <option value="$PROJECT_DIR$/src/move_method/Account.java" />
         <option value="$PROJECT_DIR$/src/move_method/AccountType.java" />
         <option value="$PROJECT_DIR$/src/move_method/before/AccountType.java" />
@@ -231,6 +221,11 @@
         <option value="$PROJECT_DIR$/src/hide_delegate/after/Client.java" />
         <option value="$PROJECT_DIR$/src/hide_delegate/before/Client.java" />
         <option value="$PROJECT_DIR$/src/hide_delegate/after/Person.java" />
+        <option value="$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Person.java" />
+        <option value="$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Person.java" />
+        <option value="$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Employee.java" />
+        <option value="$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Employee.java" />
+        <option value="$PROJECT_DIR$/src/inline_method/IM_example.java" />
       </list>
     </option>
   </component>
@@ -258,26 +253,6 @@
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hide_delegate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hide_delegate" type="462c0819:PsiDirectoryNode" />
-              <item name="after" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hide_delegate" type="462c0819:PsiDirectoryNode" />
-              <item name="before" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -370,63 +345,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/duplicate_observed_data/before/InternalWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/duplicate_observed_data/after/InternalWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_parameter_with_method/after/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-          <folding>
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_parameter_with_method/before/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/move_field/before/AccountType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/move_field/before/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -973,6 +891,69 @@
             <element signature="e#211#212#0" expanded="true" />
             <element signature="e#262#263#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inline_method/IM_example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
