@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb3ac3bf-d319-46be-a206-4c0970f36c9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/after/BillingPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/after/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/after/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/after/NullCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/after/NullPaymentHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/after/PaymentHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/after/Site.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/before/BillingPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/before/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/before/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/before/PaymentHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce_null_object/before/Site.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/EmployeeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Salesman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/EmployeeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Salesman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hide_delegate/after/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hide_delegate/after/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hide_delegate/after/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hide_delegate/before/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hide_delegate/before/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hide_delegate/before/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,21 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/BillingPlan.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-              <folding>
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/NullCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
@@ -100,55 +69,79 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/before/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/NullPaymentHistory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding>
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/PaymentHistory.java">
+        <entry file="file://$PROJECT_DIR$/src/hide_delegate/before/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hide_delegate/before/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/before/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/hide_delegate/before/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            <state relative-caret-position="209">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hide_delegate/after/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hide_delegate/after/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hide_delegate/after/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,19 +154,6 @@
               <folding>
                 <element signature="e#117#118#0" expanded="true" />
                 <element signature="e#188#189#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/introduce_null_object/before/Site.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -200,12 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/replace_parameter_with_method/after/OrderService.java" />
-        <option value="$PROJECT_DIR$/src/move_field/AccountType.java" />
-        <option value="$PROJECT_DIR$/src/move_field/before/AccountType.java" />
-        <option value="$PROJECT_DIR$/src/move_field/after/Account.java" />
-        <option value="$PROJECT_DIR$/src/move_field/before/Account.java" />
-        <option value="$PROJECT_DIR$/src/move_field/after/AccountType.java" />
         <option value="$PROJECT_DIR$/src/inline_class/Person.java" />
         <option value="$PROJECT_DIR$/src/inline_class/TelephoneNumber.java" />
         <option value="$PROJECT_DIR$/src/inline_class/before/TelephoneNumber.java" />
@@ -251,6 +225,12 @@
         <option value="$PROJECT_DIR$/src/introduce_null_object/before/Main.java" />
         <option value="$PROJECT_DIR$/src/introduce_null_object/after/Customer.java" />
         <option value="$PROJECT_DIR$/src/introduce_null_object/after/NullCustomer.java" />
+        <option value="$PROJECT_DIR$/src/hide_delegate/before/Department.java" />
+        <option value="$PROJECT_DIR$/src/hide_delegate/before/Person.java" />
+        <option value="$PROJECT_DIR$/src/hide_delegate/after/Department.java" />
+        <option value="$PROJECT_DIR$/src/hide_delegate/after/Client.java" />
+        <option value="$PROJECT_DIR$/src/hide_delegate/before/Client.java" />
+        <option value="$PROJECT_DIR$/src/hide_delegate/after/Person.java" />
       </list>
     </option>
   </component>
@@ -283,20 +263,20 @@
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="introduce_null_object" type="462c0819:PsiDirectoryNode" />
+              <item name="hide_delegate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="introduce_null_object" type="462c0819:PsiDirectoryNode" />
+              <item name="hide_delegate" type="462c0819:PsiDirectoryNode" />
               <item name="after" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="introduce_null_object" type="462c0819:PsiDirectoryNode" />
+              <item name="hide_delegate" type="462c0819:PsiDirectoryNode" />
               <item name="before" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -317,11 +297,11 @@
       <recent name="replace_method_with_method_object.after" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\workspace\Books\Refactoring\src\hide_delegate\after" />
       <recent name="C:\Users\USER\workspace\Books\Refactoring\src\replace_conditional_with_polymorphism\after" />
       <recent name="C:\Users\USER\workspace\Books\Refactoring\src\move_field\after" />
       <recent name="C:\Users\USER\workspace\Books\Refactoring\src\extract_interface\after" />
       <recent name="C:\Users\USER\workspace\Books\Refactoring\src\extract_subclass\after" />
-      <recent name="C:\Users\USER\workspace\Books\Refactoring\src\preserve_whole_object\after" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -390,72 +370,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/extract_interface/before/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extract_interface/before/TimeSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extract_interface/after/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/extract_interface/after/TimeSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/duplicate_observed_data/after/Interval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="94" column="29" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
-          <folding>
-            <element signature="e#6553#6554#0" expanded="true" />
-            <element signature="e#6583#6584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/duplicate_observed_data/before/InternalWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -992,6 +906,72 @@
             <element signature="e#302#303#0" expanded="true" />
             <element signature="e#351#352#0" expanded="true" />
             <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hide_delegate/after/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hide_delegate/before/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hide_delegate/before/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hide_delegate/after/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hide_delegate/before/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hide_delegate/after/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
           </folding>
         </state>
       </provider>
