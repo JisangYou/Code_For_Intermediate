@@ -10,8 +10,10 @@ public class DC_example {
     private int summerRate;
     private int winterServiceCharge;
 
-    // 이렇게 함으로써의 장점은, 긴 조건문일 때 좋고, 메서드로 따로 빼므로써 '용도'를 확실히 알 수 있게 하는 장점이 있다.
-    // 인다이렉션의 한 예
+    // todo
+    // 아래와 같은 형태의, 짧은 코드라인 계산 값들을 메서드로 빼냄으로써 장점은
+    // 긴 조건문일 때 좋고, 메서드로 따로 빼므로써 '용도'를 확실히 알 수 있다.
+    // 인다이렉션의 한 예이다.
     void method(Date date, int quantity) {
         int charge;
 

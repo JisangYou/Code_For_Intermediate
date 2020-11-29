@@ -1,7 +1,7 @@
 package replace_method_with_method_object.after;
 
-// before에 있던 메서드를 클래스를 따로 뺀다 (메서드 객체를 만듬).
-// 아래 처럼, 구현을 하고 사용하는 곳에서, 객체화 해서 사용한다.
+
+// 아래와 같이 클래스를 구성하고, 사용하는 측에서는 해당 객체를 생성하고, compute를 사용하면 된다.
 public class Gamma {
     private final Account account;
     private int inputVal;

@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb3ac3bf-d319-46be-a206-4c0970f36c9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/encapsulate_collection/after/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulate_collection/after/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulate_collection/before/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulate_collection/before/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulate_field/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decompose_conditional/after/DC_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decompose_conditional/after/DC_example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decompose_conditional/before/DC_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decompose_conditional/before/DC_example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extract_class/after/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_class/after/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extract_class/after/TelephoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_class/after/TelephoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extract_class/before/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_class/before/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extract_method/EM_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_method/EM_example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/preserve_whole_object/after/HeatingPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/preserve_whole_object/after/HeatingPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/preserve_whole_object/after/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/preserve_whole_object/after/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/preserve_whole_object/before/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/preserve_whole_object/before/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/preserve_whole_object/before/TempRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/preserve_whole_object/before/TempRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replace_method_with_method_object/after/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_method_with_method_object/after/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replace_method_with_method_object/after/Gamma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_method_with_method_object/after/Gamma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replace_method_with_method_object/before/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_method_with_method_object/before/Account.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,162 +25,109 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/before/ExtendedDate.java">
+        <entry file="file://$PROJECT_DIR$/src/replace_method_with_method_object/before/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="456">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/after/DateWrapper.java">
+        <entry file="file://$PROJECT_DIR$/src/replace_method_with_method_object/after/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#736#737#0" expanded="true" />
-                <element signature="e#767#768#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-                <element signature="e#837#838#0" expanded="true" />
-                <element signature="e#867#868#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-                <element signature="e#938#939#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1008#1009#0" expanded="true" />
-                <element signature="e#1077#1078#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/encapsulate_field/Product.java">
+        <entry file="file://$PROJECT_DIR$/src/decompose_conditional/before/DC_example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="437">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/encapsulate_collection/before/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/decompose_conditional/after/DC_example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+            <state relative-caret-position="285">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/replace_method_with_method_object/after/Gamma.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/after/TempRange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/before/Room.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/after/Room.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="e#211#212#0" expanded="true" />
                 <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/encapsulate_collection/after/Course.java">
+        <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/after/HeatingPlan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/encapsulate_collection/after/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="114">
+              <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collections.java">
+        <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/before/HeatingPlan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="1118" column="29" selection-start-line="1118" selection-start-column="29" selection-end-line="1118" selection-end-column="29" />
+            <state relative-caret-position="95">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding>
-                <element signature="e#46892#46893#0" expanded="true" />
-                <element signature="e#46939#46940#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/encapsulate_collection/before/Course.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/after/ExtendedDate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/before/DateWrapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -190,6 +145,9 @@
     <findStrings>
       <find>InternalWindow</find>
       <find>add</find>
+      <find>Decompose</find>
+      <find>fixme</find>
+      <find>니다</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -198,19 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/Manager.java" />
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/Salesman.java" />
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/EmployeeType.java" />
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/EmployeeType.java" />
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Engineer.java" />
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Manager.java" />
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Salesman.java" />
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Employee.java" />
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/EmployeeType.java" />
-        <option value="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Employee.java" />
-        <option value="$PROJECT_DIR$/src/introduce_null_object/BillingPlan.java" />
-        <option value="$PROJECT_DIR$/src/introduce_null_object/Customer.java" />
-        <option value="$PROJECT_DIR$/src/introduce_null_object/PaymentHistory.java" />
         <option value="$PROJECT_DIR$/src/introduce_null_object/Site.java" />
         <option value="$PROJECT_DIR$/src/introduce_null_object/Main.java" />
         <option value="$PROJECT_DIR$/src/introduce_null_object/after/BillingPlan.java" />
@@ -249,6 +194,19 @@
         <option value="$PROJECT_DIR$/src/encapsulate_collection/after/Course.java" />
         <option value="$PROJECT_DIR$/src/encapsulate_collection/before/Person.java" />
         <option value="$PROJECT_DIR$/src/encapsulate_collection/after/Person.java" />
+        <option value="$PROJECT_DIR$/src/extract_class/before/Person.java" />
+        <option value="$PROJECT_DIR$/src/extract_class/after/Person.java" />
+        <option value="$PROJECT_DIR$/src/extract_class/after/TelephoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/extract_method/EM_example.java" />
+        <option value="$PROJECT_DIR$/src/preserve_whole_object/before/Room.java" />
+        <option value="$PROJECT_DIR$/src/preserve_whole_object/before/TempRange.java" />
+        <option value="$PROJECT_DIR$/src/preserve_whole_object/after/Room.java" />
+        <option value="$PROJECT_DIR$/src/preserve_whole_object/after/HeatingPlan.java" />
+        <option value="$PROJECT_DIR$/src/replace_method_with_method_object/before/Account.java" />
+        <option value="$PROJECT_DIR$/src/replace_method_with_method_object/after/Account.java" />
+        <option value="$PROJECT_DIR$/src/replace_method_with_method_object/after/Gamma.java" />
+        <option value="$PROJECT_DIR$/src/decompose_conditional/after/DC_example.java" />
+        <option value="$PROJECT_DIR$/src/decompose_conditional/before/DC_example.java" />
       </list>
     </option>
   </component>
@@ -264,7 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,26 +238,27 @@
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="encapsulate_collection" type="462c0819:PsiDirectoryNode" />
+              <item name="decompose_conditional" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="encapsulate_collection" type="462c0819:PsiDirectoryNode" />
+              <item name="decompose_conditional" type="462c0819:PsiDirectoryNode" />
               <item name="after" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="encapsulate_collection" type="462c0819:PsiDirectoryNode" />
+              <item name="decompose_conditional" type="462c0819:PsiDirectoryNode" />
               <item name="before" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -367,14 +325,10 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
@@ -382,222 +336,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/replace_type_code_with_class/after/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_type_code_with_class/before/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_type_code_with_class/after/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_type_code_with_class/after/BloodGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding>
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Salesman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/EmployeeType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Engineer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Salesman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Engineer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/EmployeeType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/introduce_null_object/before/PaymentHistory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/introduce_null_object/before/BillingPlan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/introduce_null_object/before/Site.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/BillingPlan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/introduce_null_object/after/PaymentHistory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -883,13 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/before/DateWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/before/ExtendedDate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -897,79 +640,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/after/ExtendedDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/after/DateWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#867#868#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1008#1009#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/encapsulate_field/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/encapsulate_collection/before/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="342">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -980,9 +661,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/encapsulate_collection/after/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="19988">
           <caret line="1118" column="29" selection-start-line="1118" selection-start-column="29" selection-end-line="1118" selection-end-column="29" />
           <folding>
             <element signature="e#46892#46893#0" expanded="true" />
@@ -991,34 +682,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/encapsulate_collection/after/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/encapsulate_collection/before/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/after/ExtendedDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Introduce_local_Extension/before/DateWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/encapsulate_collection/before/Person.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extract_method/EM_example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extract_class/before/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extract_class/after/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="53" lean-forward="true" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extract_class/after/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replace_temp_with_query/RTWQ_example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/introduce_parameter_object/before/Entry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/introduce_parameter_object/before/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/before/TempRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/after/TempRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/after/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/before/HeatingPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/before/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preserve_whole_object/after/HeatingPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replace_method_with_method_object/before/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replace_method_with_method_object/after/Gamma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/replace_method_with_method_object/after/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decompose_conditional/before/DC_example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decompose_conditional/after/DC_example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>

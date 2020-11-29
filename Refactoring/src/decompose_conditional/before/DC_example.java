@@ -18,7 +18,10 @@ public class DC_example {
     private int quantity;
 
 
-    // 아래 코드를 쪼개는 리팩토링을 해본다.
+    // fixme
+    // 아래 조건문은 가독성이 떨어지는 경우이다.
+    // 만드는 그 순간은 편하지만, 추후에 다시 볼때 및 개발자들과 협업시
+    // 조건문에서 도출하고자 하는 결과가 무엇을 뜻하는지 헷갈릴 소지가 있다.
     public void method() {
         if (date.before(SUMMER_START) || date.after(SUMMER_END)) {
             charge = quantity * winterRate + winterServiceCharge;

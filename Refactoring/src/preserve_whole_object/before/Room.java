@@ -7,6 +7,8 @@ package preserve_whole_object.before;
  * 단점: 통 객체를 전달하면, 통 객체와 호출한 객체가 서로 의존하게 되는데 이게 만약 의존성을 망가 뜨릴 것 같으면 사용하지 않는다.
  */
 public class Room {
+    //fixme
+    //매개변수별로 넘기는게 아니라 객체 자체를 넘기는 게 필요하다.
     boolean withinPlan(HeatingPlan plan) {
         int low = daysTempRange().getLow();
         int high = daysTempRange().getHigh();
