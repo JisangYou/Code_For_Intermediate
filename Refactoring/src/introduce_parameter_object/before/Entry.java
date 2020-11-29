@@ -11,10 +11,7 @@ public class Entry {
         this.value = value;
     }
 
-    public Date getDate() {
-
-        return chargeDate;
-    }
+    public Date getDate() { return chargeDate; }
 
     public double getValue() {
         return value;

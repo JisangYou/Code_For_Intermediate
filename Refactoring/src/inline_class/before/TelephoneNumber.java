@@ -1,5 +1,7 @@
 package inline_class.before;
 
+// fixme
+// 삭제!
 public class TelephoneNumber {
     private String _areaCode;
     private String _number;

@@ -4,6 +4,7 @@ public class Person {
     private String _name;
     private String _areaCode;
 
+    // todo
     // 전화 번호 클래스 기능 옮기고, 해당 클래스 삭제함으로써 리팩토링
     private String _number;
 

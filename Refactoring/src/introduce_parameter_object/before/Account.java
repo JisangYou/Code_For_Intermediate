@@ -14,6 +14,7 @@ import java.util.List;
 public class Account {
     private List<Entry> entries;
 
+    // fixme
     // 매개변수 start, end가 늘 붙어다는 매개변수라고 가정할 때, 이를 리팩토링 한다.
     double getFlowBetween(Date start, Date end) {
         double result = 0;

@@ -6,6 +6,7 @@ package inline_class.before;
  */
 public class Person {
     private String _name;
+    // fixme
     private TelephoneNumber _officeTelephone = new TelephoneNumber();
 
     public String getName() {
