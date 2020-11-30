@@ -1,7 +1,9 @@
 package replace_method_with_method_object.after;
 
 
-// 아래와 같이 클래스를 구성하고, 사용하는 측에서는 해당 객체를 생성하고, compute를 사용하면 된다.
+// todo
+// before 패키지에 있던 gamma 메서드를 클래스로 만든다.
+// 아래와 같이 클래스를 구성하고, 사용하는 측에서는 해당 객체를 생성하고, compute 메서드 사용하면 된다.
 public class Gamma {
     private final Account account;
     private int inputVal;

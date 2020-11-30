@@ -6,7 +6,8 @@ abstract class EmployeeType {
     public static final int MANAGER = 2;
 
     abstract int getTypeCode();
-    // 해당 클래스를 상속받는 클래스에서는 아래의 메서드를 구현하고 매개변수로 Employee 객체전달.
-    // 각 데이터 클래스에서 다형성을 활용해서 payAmount를 재정의하고 그 값을 return한다.
+    // 추상 클래스를 통해 상속 받는 곳은 강제로 아래 추상 메서드를 구현해야 하고, 재정의 한다면
+    // 객체 생성간에 자연스럽게 payAmount를 객체 형태에 맞게 return 할 수 있다.
+    // Employee 객체를 파라미터로..
     abstract int payAmount(Employee emp);
 }

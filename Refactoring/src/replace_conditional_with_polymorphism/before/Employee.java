@@ -10,7 +10,9 @@ public class Employee {
     private int bonus;
     private EmployeeType type;
 
-    // Fixme : 리팩토링 필요.
+    // fixme
+    // switch 문
+    // 매번 조건에 따라서 분기 처리할 필요가 없다.
     int payAmount() {
         switch(getType()) {
             case EmployeeType.ENGINEER:

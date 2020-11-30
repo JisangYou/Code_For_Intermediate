@@ -1,7 +1,7 @@
 package inline_class.before;
 
 // fixme
-// 삭제!
+// 클래스 내 변수, 메서드들을 옮기고 삭제할 수 있다!
 public class TelephoneNumber {
     private String _areaCode;
     private String _number;
