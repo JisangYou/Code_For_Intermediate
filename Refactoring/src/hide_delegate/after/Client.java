@@ -7,6 +7,8 @@ public class Client {
         john.setDepartment(new Department(johnsManager));
 
 
+        // todo
+        // 메서드 체인을 끊고 해당 클래스에서 메서드를 별도로 만들어 준다.
         Person manager = john.getManager();
     }
 }

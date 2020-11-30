@@ -7,7 +7,8 @@ package replace_delegation_with_inheritance.before;
  *
  */
 
-// FIXME: 위임하는 클래스에 모든 메서드를 사용하므로 리팩토링 실시
+// fixme
+// 위임하는 클래스에 모든 메서드를 사용하므로 리팩토링 실시
 public class Employee {
     private Person person = new Person();
 

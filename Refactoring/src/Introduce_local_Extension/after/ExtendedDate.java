@@ -2,7 +2,9 @@ package Introduce_local_Extension.after;
 
 import java.util.Date;
 
-// TODO 하위 클래스로 라이브러리를 커스텀
+// todo
+// 하위 클래스로 라이브러리를 커스텀
+// 오버로딩
 public class ExtendedDate extends Date {
     public ExtendedDate() {
         super();

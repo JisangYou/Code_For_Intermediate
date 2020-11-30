@@ -13,7 +13,9 @@ public class Client {
         john.setDepartment(new Department(johnsManager));
 
 
-        // FIXME : 아래는 Department 클래스의 기능이 팀장의 정보를 지속적으로 알아내는 것임을 알 수 있다.
+        // fixme
+        // 아래는 Department 클래스의 기능이 팀장의 정보를 지속적으로 알아내는 것임을 알 수 있다.
+        // 메서드 체인 형태로, 캡슐화 관점에서 은닉이 이루어지지 않았음.
         Person manager = john.getDepartment().getManager();
     }
 }

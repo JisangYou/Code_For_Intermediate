@@ -2,7 +2,8 @@ package replace_inheritance_with_delegation.after;
 
 import java.util.Vector;
 
-// TODO: 다음과 같이 위임을 사용하여, 사용하려는 상위 클래스의 일부 기능만 빼서 클래스를 커스터마이징 한다.
+// todo
+// 다음과 같이 위임을 사용하여, 사용하려는 상위 클래스의 일부 기능만 빼서 클래스를 커스터마이징 한다.
 public class MyStack<T> {
     private Vector<T> vector = new Vector<>();
 

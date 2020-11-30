@@ -9,7 +9,8 @@ import java.util.Vector;
  *
  */
 
-// FIXME : 상속은 휼륭하지만, 떄로는 적합하지 않은 경우도 있다.
+// fixme
+// 상속은 휼륭하지만, 떄로는 적합하지 않은 경우도 있다.
 public class MyStack<T> extends Vector<T> {
     public void push(T element) {
         insertElementAt(element, 0);

@@ -3,18 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="cb3ac3bf-d319-46be-a206-4c0970f36c9f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decompose_conditional/after/DC_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decompose_conditional/after/DC_example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extract_class/after/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_class/after/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extract_interface/after/Billable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_interface/after/Billable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extract_interface/after/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extract_interface/after/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inline_class/before/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inline_class/before/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inline_class/before/TelephoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inline_class/before/TelephoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduce_parameter_object/after/DateRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduce_parameter_object/after/DateRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduce_parameter_object/before/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduce_parameter_object/before/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/EmployeeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/after/EmployeeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_conditional_with_polymorphism/before/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replace_method_with_method_object/after/Gamma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_method_with_method_object/after/Gamma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replace_type_code_with_class/before/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_type_code_with_class/before/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduce_local_Extension/after/DateWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduce_local_Extension/after/DateWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduce_local_Extension/after/ExtendedDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduce_local_Extension/after/ExtendedDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hide_delegate/after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hide_delegate/after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hide_delegate/after/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hide_delegate/after/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hide_delegate/before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hide_delegate/before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_delegation_with_inheritance/after/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_delegation_with_inheritance/before/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replace_inheritance_with_delegation/after/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_inheritance_with_delegation/after/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replace_inheritance_with_delegation/before/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replace_inheritance_with_delegation/before/MyStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
