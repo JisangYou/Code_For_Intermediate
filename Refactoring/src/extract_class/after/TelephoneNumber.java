@@ -1,7 +1,7 @@
 package extract_class.after;
 
 // todo
-// 기능을 명확히 분리한 클래스 추출하여, 가독성 및 추후 생길 수 있는 이슈를 방지했다.
+// 기능을 명확히 분리한 클래스를 추출.
 public class TelephoneNumber {
 
     private String _areaCode;
