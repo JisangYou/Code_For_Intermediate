@@ -39,4 +39,44 @@ class ObserverTest2 {
             )
         observableOnList.subscribe(observer)
     }
+
+    @Test
+    fun observableCreate() {
+        val observer: Observer<String> = object : Observer<String> {
+            override fun onSubscribe(d: Disposable) {
+                println("New Subscription")
+            }
+
+            override fun onNext(t: String) {
+                println("Next $t")
+            }
+
+            override fun onError(e: Throwable) {
+                println("Error Occured ${e.message}")
+            }
+
+            override fun onComplete() {
+                println("All Completed")
+            }
+        } // Observer 생성
+
+        val observable: Observable<String> = Observable.create<String> {
+            it.onNext("Emit 1")
+            it.onNext("Emit 2")
+            it.onNext("Emit 3")
+            it.onNext("Emit 4")
+            it.onComplete()
+        }
+
+        observable.subscribe(observer)
+
+        val observable2: Observable<String> = Observable.create<String> {
+            it.onNext("Emit 1")
+            it.onNext("Emit 2")
+            it.onNext("Emit 3")
+            it.onNext("Emit 4")
+            it.onError(Exception("My Custom Exception"))
+        }
+        observable2.subscribe(observer)
+    }
 }
