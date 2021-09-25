@@ -3,12 +3,12 @@ package com.example.rxkotlin.observable
 import io.reactivex.Observer
 import io.reactivex.disposables.Disposable
 
-val observer: Observer<String> = object : Observer<String> {
+val observer: Observer<Any> = object : Observer<Any> {
     override fun onSubscribe(d: Disposable) {
         println("New Subscription")
     }
 
-    override fun onNext(t: String) {
+    override fun onNext(t: Any) {
         println("New $t")
     }
 
