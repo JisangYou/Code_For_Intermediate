@@ -1,8 +1,8 @@
-package Chapter2
+package chapter2
 
 
 import java.lang.Exception
-import Chapter2.Color.*
+import chapter2.Color.*
 
 enum class Color {
     RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET

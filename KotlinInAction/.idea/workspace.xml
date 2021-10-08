@@ -68,20 +68,7 @@
       <recent name="$PROJECT_DIR$/src/Chapter4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IteratorSampleKt">
-    <configuration name="Chapter7.OverloadingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="KotlinInAction" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter7.OverloadingKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IteratorSample2Kt">
     <configuration name="ConventionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
@@ -90,6 +77,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Chapter7.ConventionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratorSample2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinInAction" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter2.IteratorSample2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,6 +136,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IteratorSample2Kt" />
         <item itemvalue="Application.IteratorSampleKt" />
         <item itemvalue="Application.WhenSampleKt" />
       </list>
