@@ -1,4 +1,4 @@
-package com.example.rxkotlin.observable
+package com.example.rxkotlin.observerAndObservable
 
 import io.reactivex.Observer
 import io.reactivex.disposables.Disposable

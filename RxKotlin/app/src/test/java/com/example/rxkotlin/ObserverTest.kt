@@ -2,7 +2,7 @@ package com.example.rxkotlin
 
 
 import com.example.rxkotlin.Future.FutureSample
-import com.example.rxkotlin.Observer.ObserverSample
+import com.example.rxkotlin.observerAndObservable.ObserverSample
 import io.reactivex.Observable
 import io.reactivex.Observer
 import io.reactivex.rxkotlin.toObservable
@@ -10,7 +10,6 @@ import org.junit.Test
 import java.lang.Exception
 import java.util.concurrent.Callable
 import java.util.concurrent.Future
-import java.util.concurrent.TimeUnit
 
 class ObserverTest {
 

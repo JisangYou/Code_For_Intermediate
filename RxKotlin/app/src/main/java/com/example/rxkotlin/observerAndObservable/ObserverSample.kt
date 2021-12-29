@@ -1,10 +1,7 @@
-package com.example.rxkotlin.Observer
+package com.example.rxkotlin.observerAndObservable
 
-import io.reactivex.Observable
 import io.reactivex.Observer
 import io.reactivex.disposables.Disposable
-import io.reactivex.rxkotlin.toObservable
-import java.util.*
 
 class ObserverSample {
 
